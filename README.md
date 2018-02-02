@@ -12,3 +12,5 @@ $ webpack -p
 
 => bundle.js is our bundled file which is added to dist/ directory.
 
+$ webpack-dev-server
+
